@@ -1,0 +1,5 @@
+D:\pyc\mine_clearance\AutoCaculate\bin\Release\AutoCaculate.dll
+D:\pyc\mine_clearance\AutoCaculate\bin\Release\AutoCaculate.pdb
+D:\pyc\mine_clearance\AutoCaculate\obj\Release\AutoCaculate.csprojResolveAssemblyReference.cache
+D:\pyc\mine_clearance\AutoCaculate\obj\Release\AutoCaculate.dll
+D:\pyc\mine_clearance\AutoCaculate\obj\Release\AutoCaculate.pdb

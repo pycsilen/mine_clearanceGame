@@ -1,0 +1,15 @@
+D:\pyc\mine_clearance\mine_clearance\bin\Debug\mine_clearance.exe.config
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.Properties.Resources.resources
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.csproj.GenerateResource.Cache
+D:\pyc\mine_clearance\mine_clearance\bin\Debug\mine_clearance.exe
+D:\pyc\mine_clearance\mine_clearance\bin\Debug\mine_clearance.pdb
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.MyButton.resources
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.exe
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.pdb
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.csprojResolveAssemblyReference.cache
+D:\pyc\mine_clearance\mine_clearance\obj\Debug\mine_clearance.MainForm.resources
+D:\pyc\mine_clearance\mine_clearance\bin\Debug\AutoCaculate.dll
+D:\pyc\mine_clearance\mine_clearance\bin\Debug\AutoCaculate.pdb
+E:\mine_clearance\mine_clearance\bin\Debug\mine_clearance.exe.config
+E:\mine_clearance\mine_clearance\obj\Debug\mine_clearance.exe
+E:\mine_clearance\mine_clearance\obj\Debug\mine_clearance.pdb
